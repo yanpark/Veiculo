@@ -1,0 +1,1 @@
+./Debug/Veiculo_main.cpp.o ./Debug/Veiculo_Veiculo.cpp.o ./Debug/Veiculo_Terrestre.cpp.o ./Debug/Veiculo_Carro.cpp.o   
